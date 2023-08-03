@@ -5,7 +5,7 @@ Priority: optional
 Build-Depends: cmake,
                doxygen,
                pkg-config,
-               debhelper (>= 11),
+               debhelper (>= 13),
                libgz-cmake3-dev,
                libgz-common5-events-dev,
                libgz-common5-io-dev,
