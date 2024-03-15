@@ -1,3 +1,9 @@
+gz-sensors8 (8.0.1-1~jammy) jammy; urgency=medium
+
+  * gz-sensors8 8.0.1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 15 Mar 2024 14:58:55 -0500
+
 gz-sensors8 (8.0.0-1~jammy) jammy; urgency=medium
 
   * gz-sensors8 8.0.0-1 release
