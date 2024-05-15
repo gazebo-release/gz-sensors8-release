@@ -1,3 +1,9 @@
+gz-sensors8 (8.1.0-1~jammy) jammy; urgency=medium
+
+  * gz-sensors8 8.1.0-1 release
+
+ -- Ian Chen <ichen@openrobotics.org>  Wed, 15 May 2024 19:51:08 +0000
+
 gz-sensors8 (8.0.1-1~jammy) jammy; urgency=medium
 
   * gz-sensors8 8.0.1-1 release
