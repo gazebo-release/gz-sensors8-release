@@ -1,3 +1,9 @@
+gz-sensors8 (8.2.2-1~noble) noble; urgency=medium
+
+  * gz-sensors8 8.2.2-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Mon, 10 Feb 2025 12:56:52 -0600
+
 gz-sensors8 (8.2.1-1~noble) noble; urgency=medium
 
   * gz-sensors8 8.2.1-1 release
